@@ -10,8 +10,8 @@
   width:100%;
   height:400px;
   background-image:url(img/mv.jpg);
-  background-size:center;
-  background-poistion:bottom;
+  background-size:cover;
+  background-position:bottom;
 }
 
 .header-text{
